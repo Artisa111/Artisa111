@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Artur
 
-<!--
-**Artisa111/Artisa111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Data Analyst · Business Intelligence Specialist*
 
-Here are some ideas to get you started:
+A specialist in product quality and sales who has found a new passion in working with data. I turn numbers into insights, thriving at the intersection of analytics and storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Skills & Focus
+
+- **Data querying & analysis:** SQL & Python for extracting and analysing datasets.
+- **Reporting & ad-hoc analysis:** Creating meaningful reports and dashboards for stakeholders.
+- **Dashboard development:** Building interactive dashboards with Tableau, Power BI & Looker Studio.
+- **Spreadsheet mastery:** Leveraging Excel & Google Sheets for data analysis and presentation.
+
+## 📒 Projects
+
+Interested in what I'm working on? You can browse all my public work by visiting my [repositories](https://github.com/Artisa111?tab=repositories). Each project includes datasets, analysis scripts and interactive dashboards – I'll be adding detailed descriptions soon.
+
+## 🛠 Tools & Technologies
+
+- **Languages:** SQL, Python
+- **Databases:** PostgreSQL, MySQL, BigQuery
+- **Visualization:** Tableau, Power BI, Looker Studio
+- **Other:** Excel, Google Sheets, Streamlit, Git
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Email](mailto:your-email@example.com)
+- [Tableau Public](https://public.tableau.com/app/profile/your-name)
+
+Thanks for stopping by! Feel free to explore my work and reach out – I'm always open to collaboration.
