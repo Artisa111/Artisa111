@@ -3,7 +3,7 @@
 <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/bf0d682b-c6ee-4247-a068-711da6eac8e7" />
 
 
-*Data Analyst · Expert in Product Analytics and Overall Analytics*
+## *Data Analyst · Expert in Product Analytics and Overall Analytics*
 
 
 A specialist in product quality and sales who has found a new passion in working with data. I turn numbers into insights, thriving at the intersection of analytics and storytelling.
