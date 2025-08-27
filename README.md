@@ -39,7 +39,7 @@ Thanks for stopping by! Feel free to explore my work and reach out – I'm alway
 
 <div dir="rtl">
 
-# 👋 שלום, אני ארתור
+# 👋 היי, אני ארתור
 
 <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/bf0d682b-c6ee-4247-a068-711da6eac8e7" />
 
