@@ -41,7 +41,7 @@ Thanks for stopping by! Feel free to explore my work and reach out – I'm alway
 
 # 👋 שלום, אני ארתור
 
-<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/bf0d682b-c6ee-4247-a068-711da6ecac8e7" />
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/bf0d682b-c6ee-4247-a068-711da6eac8e7" />
 
 ### *אנליסט נתונים · מומחה באנליטיקות מוצר ואנליטיקות כלליות*
 
@@ -60,7 +60,7 @@ Thanks for stopping by! Feel free to explore my work and reach out – I'm alway
 
 ### 🧐 כלים וטכנולוגיות
 
-- **שפות:** SQL, פייתון
+- **שפות:** SQL, Python
 - **מסדי נתונים:** PostgreSQL, MySQL, BigQuery
 - **ויזואליזציה:** Tableau, Power BI, Looker Studio
 - **אחר:** Excel, Google Sheets, StreamLit, Git
