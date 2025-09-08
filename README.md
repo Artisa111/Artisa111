@@ -24,7 +24,7 @@ Interested in what I'm working on? You can browse all my public work by visiting
 - **Languages:** SQL, Python
 - **Databases:** PostgreSQL, MySQL, BigQuery
 - **Visualization:** Tableau, Power BI, Looker Studio
-- **Other:** Excel, Google Sheets, Streamlit, Git
+- **Other:** Excel, Google Sheets, Streamlit, Git, VScode
 
 ## 🌐 Connect with Me
 
@@ -63,7 +63,7 @@ Thanks for stopping by! Feel free to explore my work and reach out – I'm alway
 - **שפות:** SQL, Python
 - **מסדי נתונים:** PostgreSQL, MySQL, BigQuery
 - **ויזואליזציה:** Tableau, Power BI, Looker Studio
-- **אחר:** Excel, Google Sheets, StreamLit, Git
+- **אחר:** Excel, Google Sheets, StreamLit, Git, VScode 
 
 ### 📧 צרו קשר איתי
 
