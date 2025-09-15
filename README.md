@@ -6,7 +6,7 @@
 ### *Data Analyst · Expert in Product Analytics and Overall Analytics*
 
 
-A specialist in product quality and sales who has found a new passion in working with data. I turn numbers into insights, thriving at the intersection of analytics and storytelling.
+A specialist in product quality and optimization who has found a new passion in working with data. I turn numbers into insights, thriving at the intersection of analytics and storytelling.
 
 ## 🔍 Skills & Focus
 
