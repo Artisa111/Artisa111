@@ -58,7 +58,7 @@ Thanks for stopping by! Feel free to explore my work and reach out – I'm alway
 
 ### 🚧 פרויקטים
 
-מתעניינים במה שאני עובד? אתם יכולים לדפדף בכל העבודה הציבורית שלי על ידי ביקור ב[מאגרים](https://github.com/Artisa111?tab=repositories). כל פרויקט כוללל מערכי נתונים, סקריפטים לניתוח ולוחות מחוונים אינטראקטיים – אני אוסיף תיאורים מפורטרים בקרוב.
+מתעניינים במה שאני עובד? אתם יכולים לדפדף בכל העבודה הציבורית שלי על ידי ביקור ב[פרויקטים](https://github.com/Artisa111?tab=repositories). כל פרויקט כוללל מערכי נתונים, סקריפטים לניתוח ולוחות מחוונים אינטראקטיים – אני אוסיף תיאורים מפורטרים בקרוב.
 
 ### 🧐 כלים וטכנולוגיות
 
@@ -69,9 +69,10 @@ Thanks for stopping by! Feel free to explore my work and reach out – I'm alway
 
 ### 📧 צרו קשר איתי
 
-- [LinkedIn](https://www.linkedin.com/in/artur-pais-848491352)
-- [Email](mailto:your-artursim79@gmail.com)
-- [Tableau Public](https://public.tableau.com/app/profile/artursim)
+<p align="left">
+  <a href="mailto:artursim779@gmail.com"><img src="https://img.shields.io/badge/Email-Artur-success?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/artur-pais-848491352" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Artur_Pais-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Tableau](https://public.tableau.com/app/profile/artursim)]
 
 </div>
 
