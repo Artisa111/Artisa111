@@ -1,87 +1,113 @@
-# 👋 Hello, I'm Artur
-
-<img width="1400" height="349" alt="banner" src="https://github.com/user-attachments/assets/bf0d682b-c6ee-4247-a068-711da6eac8e7" />
-
-### *Data Analyst · Expert in Product Analytics and Overall Analytics*
-
-A specialist in product quality and optimization who has found a new passion in working with data. I turn numbers into insights, thriving at the intersection of analytics and storytelling.
-
-## 🔍 Skills & Focus
-
-- **Data querying & analysis:** SQL & Python for extracting and analysing datasets.  
-- **Reporting & ad-hoc analysis:** Creating meaningful reports and dashboards for stakeholders.  
-- **Dashboard development:** Building interactive dashboards with Tableau, Power BI & Looker Studio.  
-- **Spreadsheet mastery:** Leveraging Excel & Google Sheets for data analysis and presentation.  
-
-## 📒 Projects
-
-Interested in what I'm working on?  
-[![Explore Repositories](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Artisa111?tab=repositories)
-
-Each project includes datasets, analysis scripts and (where applicable) dashboards or exploratory notebooks. More coming soon.
-
-## 🛠 Tools & Technologies
-
-| Category | Stack |
-|----------|-------|
-| Languages | ![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005E87?style=flat&logo=mysql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white) |
-| Visualization | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googlestudio&logoColor=white) |
-| Productivity | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=flat&logo=googlesheets&logoColor=white) |
-| Other | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artur%20Pais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-pais-848491352)
-[![Email](https://img.shields.io/badge/Email-artursim779%40gmail.com-success?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artursim779@gmail.com)
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/artur.pais)
-
-Thanks for stopping by! Feel free to explore my work and reach out – I'm always open to collaboration.
-
----
-
-<div dir="rtl">
-
-# 👋 היי, אני ארתור
-
-<img width="1400" height="349" alt="banner" src="https://github.com/user-attachments/assets/bf0d682b-c6ee-4247-a068-711da6eac8e7" />
-
-### *דאטה אנליסט · מומחה באנליטיקת מוצר ואנליטיקה כוללת*
-
-אני מומחה לאיכות מוצר ואופטימיזציה שמצא תשוקה בעבודה עם נתונים. הופך מספרים לתובנות ויודע לחבר בין נתונים, סיפור ותוצאה עסקית.
-
-### 🧠 כישורים ומוקד
-
-- **שאילתות וניתוח נתונים:** SQL ופייתון לחילוץ וניתוח מערכי נתונים.  
-- **דוחות וניתוח אד־הוק:** יצירת דוחות ותובנות ממוקדות לבעלי עניין.  
-- **פיתוח לוחות מחוונים:** Tableau, Power BI ו‑Looker Studio.  
-- **שליטה בגיליונות:** Excel ו‑Google Sheets להצגה וניתוח.  
-
-### 🚧 פרויקטים
-אם אתם מתעניינים בעבודתי, תוכלו לבדוק את כל הפרויקטים הציבוריים שלי. בכל פרויקט תמצאו מערכי נתונים, סקריפטים לניתוח ולוחות מחוונים אינטראקטיביים – בקרוב אוסיף תיאורים מפורטים.
-
-רוצים לראות מה אני עושה?
-[![מאגרי קוד](https://img.shields.io/badge/GitHub-כל%20הפרויקטים-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Artisa111?tab=repositories)
-
-### 🧐 כלים וטכנולוגיות
-
-| קטגוריה | טכנולוגיות |
-|---------|-------------|
-| שפות | ![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| מסדי נתונים | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005E87?style=flat&logo=mysql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white) |
-| ויזואליזציה | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googlestudio&logoColor=white) |
-| פרודוקטיביות | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=flat&logo=googlesheets&logoColor=white) |
-| אחר | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
-
-### 📧 צרו קשר
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artur%20Pais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-pais-848491352)
-[![Email](https://img.shields.io/badge/Email-artursim779%40gmail.com-success?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artursim779@gmail.com)
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/artur.pais)
-
-</div>
 <div align="center">
-
-**💜 נוצר באהבה לאנליטיקת נתונים**
-
+  <img src="assets/preview.png" alt="Restaurant 3D Analytics Dashboard" width="800">
+  <h1>✨ Restaurant 3D Analytics Dashboard</h1>
 </div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🇬🇧 English
+
+#### The Vision: Bringing Data to Life
+I created this project to bring a "wow-effect" back into data analytics. The goal was simple: to move away from boring, static Excel spreadsheets and create an interactive experience that breathes life into business metrics.
+
+Imagine a dashboard you can literally step into and interact with naturally. This prototype focuses on the restaurant niche, demonstrating how we can visualize daily revenue, table occupancy, and more—all within an immersive 3D space.
+
+#### Core Features
+- **Privacy First (Local Analytics):** Small businesses shouldn't worry about data leaks. The entire backend runs locally, reading and processing your CSV data safely without sending sensitive numbers to the cloud.
+- **Interactive 3D Visualization:** We use React Three Fiber to build a dynamic scene where table height represents revenue and color represents occupancy.
+- **AI Assistant:** Instead of clicking through filters, you just ask questions. Type "best table" or "empty tables," and the AI analyzes your data and dynamically highlights the results in the 3D world.
+- **Gesture Control (Minority Report Style):** Using a webcam and MediaPipe hand tracking, you can spin the camera around your 3D restaurant using simple hand movements—perfect for impressive client presentations.
+
+#### Future Roadmap
+- [ ] Connect `call_llm_api` function in `backend/main.py` directly to OpenAI / Claude API.
+- [ ] Implement persistent chat history saving.
+- [ ] More robust error boundaries and UI error states.
+
+#### How to Run Locally
+
+**1. Start the Secure Backend (Terminal 1)**
+```bash
+# Install dependencies
+pip install pandas numpy fastapi uvicorn pydantic python-dotenv
+
+# Run the API
+python backend/main.py
+```
+
+**2. Start the 3D Frontend (Terminal 2)**
+```bash
+# Navigate to the frontend directory
+cd frontend
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+```
+
+Open your browser at `http://localhost:5173` to explore the dashboard.
+
+<br/>
+<div align="center">
+  <i>A.S.P — с любовью к аналитике.</i>
+</div>
+
+</td>
+<td width="50%" valign="top" dir="rtl" align="right">
+
+### 🇮🇱 עברית
+
+#### החזון: להפיח חיים בנתונים
+יצרתי את הפרויקט הזה כדי להחזיר את "אפקט הוואו" לעולם ניתוח הנתונים. המטרה הייתה פשוטה: להתרחק מטבלאות אקסל משעממות וסטטיות, וליצור חוויה אינטראקטיבית שמכניסה חיים למדדים עסקיים.
+
+תארו לעצמכם לוח בקרה (דשבורד) שאתם יכולים ממש להיכנס אליו ולקיים איתו אינטראקציה בצורה טבעית. אב-טיפוס זה מתמקד בנישת המסעדות, ומדגים כיצד אנו יכולים להציג הכנסות יומיות, תפוסת שולחנות ועוד — הכל בתוך חלל תלת-ממד סוחף.
+
+#### תכונות עיקריות
+- **פרטיות מעל הכל (אנליטיקה מקומית):** עסקים קטנים לא צריכים לדאוג מדליפות נתונים. מערכת השרת (Backend) פועלת כולה באופן מקומי, קוראת ומעבדת את קובצי ה-CSV שלך בצורה מאובטחת מבלי לשלוח מספרים רגישים לענן.
+- **ויזואליזציה בתלת-ממד:** אנו משתמשים ב-React Three Fiber כדי לבנות סצנה דינמית בה גובה השולחן מייצג הכנסות והצבע מייצג תפוסה.
+- **עוזר בינה מלאכותית (AI):** במקום ללחוץ על מסננים, פשוט שואלים שאלות. תקליד "empty tables" (שולחנות פנויים), וה-AI מנתח את הנתונים שלך ומדגיש את התוצאות בצורה חיה בעולם התלת-ממד.
+- **שליטה באמצעות מחוות ידיים:** בעזרת מצלמת רשת וטכנולוגיית מעקב הידיים MediaPipe, ניתן לסובב את המצלמה סביב המסעדה בתלת-ממד על ידי תנועות ידיים פשוטות — מושלם למצגות מרשימות ללקוחות.
+
+#### מפת דרכים לעתיד
+- [ ] חיבור הפונקציה `call_llm_api` בקובץ `backend/main.py` ל-API האמיתי של OpenAI / Claude.
+- [ ] יישום שמירת היסטוריית צ'אט (Persistent History).
+- [ ] טיפול מתקדם יותר בשגיאות ועדכון הממשק בהתאם (Error Handling).
+
+#### איך להפעיל את הפרויקט
+
+**1. הפעלת השרת המקומי (מסוף 1)**
+```bash
+# התקנת ספריות
+pip install pandas numpy fastapi uvicorn pydantic python-dotenv
+
+# הרצת ה-API
+python backend/main.py
+```
+
+**2. הפעלת הממשק התלת-ממדי (מסוף 2)**
+```bash
+# כניסה לתיקיית הממשק
+cd frontend
+
+# התקנת חבילות
+npm install
+
+# הפעלת שרת הפיתוח
+npm run dev
+```
+
+יש לפתוח את הדפדפן בכתובת `http://localhost:5173` כדי לראות את הפרויקט.
+
+<br/>
+<div align="center">
+  <i>A.S.P — באהבה לאנליטיקה.</i>
+</div>
+
+</td>
+</tr>
+</table>

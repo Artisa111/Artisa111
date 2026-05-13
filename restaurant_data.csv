@@ -1,0 +1,13 @@
+table_id,is_occupied,guests_count,revenue_today_ils,primary_language,assigned_waiter,pos_x,pos_z
+Table_1,True,3,68.76,English,Anna,-4.5,-3.0
+Table_2,True,6,602.35,Hebrew,David,-1.5,-3.0
+Table_3,False,0,73.84,Hebrew,Anna,1.5,-3.0
+Table_4,True,1,429.02,English,Yael,4.5,-3.0
+Table_5,False,0,215.33,Russian,Moshe,-4.5,0.0
+Table_6,True,3,573.6,Russian,Anna,-1.5,0.0
+Table_7,True,3,767.91,Hebrew,Moshe,1.5,0.0
+Table_8,False,0,122.54,Russian,David,4.5,0.0
+Table_9,False,0,655.35,Arabic,David,-4.5,3.0
+Table_10,True,4,779.84,Hebrew,David,-1.5,3.0
+Table_11,False,0,672.05,Russian,David,1.5,3.0
+Table_12,True,1,578.43,English,Omar,4.5,3.0
