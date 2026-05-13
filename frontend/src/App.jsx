@@ -11,8 +11,8 @@ function App() {
   const cameraRef = useRef(null)
 
   useEffect(() => {
-    // Fetch initial data
-    axios.get('http://localhost:8000/api/data')
+    // Fetch initial data using relative path to go through the Vite proxy
+    axios.get('/api/data')
       .then(res => setData(res.data))
       .catch(err => console.error("Error fetching data:", err))
   }, [])

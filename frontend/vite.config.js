@@ -12,5 +12,14 @@ export default defineConfig({
   },
   optimizeDeps: {
     include: ['@mediapipe/hands', '@mediapipe/camera_utils']
+  },
+  server: {
+    host: true, // Listen on all local IPs
+    proxy: {
+      '/api': {
+        target: 'http://127.0.0.1:8000',
+        changeOrigin: true
+      }
+    }
   }
 })
