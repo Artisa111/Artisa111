@@ -22,6 +22,11 @@ Imagine a dashboard you can literally step into and interact with naturally. Thi
 - **AI Assistant:** Instead of clicking through filters, you just ask questions. Type "best table" or "empty tables," and the AI analyzes your data and dynamically highlights the results in the 3D world.
 - **Gesture Control (Minority Report Style):** Using a webcam and MediaPipe hand tracking, you can spin the camera around your 3D restaurant using simple hand movements—perfect for impressive client presentations.
 
+#### Future Roadmap
+- [ ] Connect `call_llm_api` function in `backend/main.py` directly to OpenAI / Claude API.
+- [ ] Implement persistent chat history saving.
+- [ ] More robust error boundaries and UI error states.
+
 #### How to Run Locally
 
 **1. Start the Secure Backend (Terminal 1)**
@@ -67,6 +72,11 @@ Open your browser at `http://localhost:5173` to explore the dashboard.
 - **ויזואליזציה בתלת-ממד:** אנו משתמשים ב-React Three Fiber כדי לבנות סצנה דינמית בה גובה השולחן מייצג הכנסות והצבע מייצג תפוסה.
 - **עוזר בינה מלאכותית (AI):** במקום ללחוץ על מסננים, פשוט שואלים שאלות. תקליד "empty tables" (שולחנות פנויים), וה-AI מנתח את הנתונים שלך ומדגיש את התוצאות בצורה חיה בעולם התלת-ממד.
 - **שליטה באמצעות מחוות ידיים:** בעזרת מצלמת רשת וטכנולוגיית מעקב הידיים MediaPipe, ניתן לסובב את המצלמה סביב המסעדה בתלת-ממד על ידי תנועות ידיים פשוטות — מושלם למצגות מרשימות ללקוחות.
+
+#### מפת דרכים לעתיד
+- [ ] חיבור הפונקציה `call_llm_api` בקובץ `backend/main.py` ל-API האמיתי של OpenAI / Claude.
+- [ ] יישום שמירת היסטוריית צ'אט (Persistent History).
+- [ ] טיפול מתקדם יותר בשגיאות ועדכון הממשק בהתאם (Error Handling).
 
 #### איך להפעיל את הפרויקט
 
